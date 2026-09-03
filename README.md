@@ -34,3 +34,7 @@ Bu proje, Haziran 2023 sonrası uygulanan dezenflasyon programı kapsamında Tü
 - `tum_degerler_zaman_serisi.png`: 3 senaryolu zaman serisi grafiği.
 - `secim_karsilastirma.png`: Seçim senaryoları karşılaştırma bar grafiği.
 - `Policy_Brief_TUR_FX.pdf`: Dünya Bankası formatında hazırlanmış 2 sayfalık Türkçe Politika Raporu.
+
+---
+
+Sorumluluk Reddi (Disclaimer): Bu depo ve ilgili politika notu yalnızca akademik araştırma, ekonometrik modelleme ve portfolyo sunumu amacıyla hazırlanmıştır. Burada yer alan hiçbir bilgi yatırım, finans veya hukuk tavsiyesi niteliğinde değildir. Projeksiyonlar, varsayımsal senaryo parametreleri altında Satın Alma Gücü Paritesi (SGP) modellerine dayanan teorik çıktılardır.
