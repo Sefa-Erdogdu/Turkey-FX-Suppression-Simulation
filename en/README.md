@@ -34,3 +34,5 @@ This project simulates the macroeconomic risks and Purchasing Power Parity (PPP)
 - `time_series_charts.png`: Time-series projection and gap visualization.
 - `election_comparison_chart.png`: Election horizon scenario comparison bar chart.
 - `Turkey_FX_Policy_Brief.pdf`: Institutional 2-page Policy Brief document.
+
+- Disclaimer: This repository and the associated policy brief are created strictly for academic research, econometric modeling, and portfolio demonstration purposes. Nothing contained herein constitutes financial, investment, or legal advice. Projections are theoretical outputs based on Purchase Power Parity (PPP) models under hypothetical scenario parameters.
