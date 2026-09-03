@@ -7,7 +7,8 @@ Bu proje, Haziran 2023 sonrası uygulanan dezenflasyon programı kapsamında Tü
 - **Canlı Veri API:** Kod çalıştığında canlı USD/TRY kurunu API üzerinden otomatik çeker (Bağlantı olmaması durumunda baseline: 48.31 TL).
 - **Baz Dönemi:** Haziran 2023 (Satın Alma Gücü Paritesi - SGP başlangıcı).
 - **Simülasyon Dönemi:** Eylül 2026 – Mayıs 2028 (21 Ay).
-- **Olması Gereken Kur (SGP / Adil Değer):** Türkiye TÜFE enflasyonu ile ABD TÜFE enflasyonu arasındaki farkın kura yansıtıldığı teorik adil değer:
+* **Olması Gereken Kur (SGP / Adil Değer):** Türkiye TÜFE enflasyonu ile ABD TÜFE enflasyonu arasındaki farkın kura yansıtıldığı teorik adil değer:
+
   $$\text{Adil Kur}_t = \text{Adil Kur}_{t-1} \times (1 + \pi_{\text{TR}} - \pi_{\text{ABD}})$$
 - **Birikimli Baskı / Sapma Endeksi (%):**
   $$\text{Baskı Oranı (\%)} = \left( \frac{\text{Olması Gereken Kur}}{\text{Olası Kur}} - 1 \right) \times 100$$
